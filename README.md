@@ -1,6 +1,6 @@
 
 ```diff
-+ STATUS OF THE PROJECT: FINISHED (APR 2021)
++ STATUS OF THE PROJECT: FINISHED (MAY 2021)
 ```
 
 # PasswordGenerater
